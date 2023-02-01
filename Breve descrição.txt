@@ -1,0 +1,5 @@
+O sistema de Catalo de Carros esta em sua fase inicial, porem ja conta com algumas
+funções (Ler, Criar, Apagar e Atualizar). Um exemplo basico da utilisação do Python
+com o MySql, esse sistema tem o objetivo principal de colocar em pratica meus conhecimentos
+e demostrar a criação de um sistema em que o usuario possa visualizar um catalogo
+com as propriedades de veiculos de diferentes classes.
